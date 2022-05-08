@@ -1,0 +1,13 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.title {
+    color: teal;
+    font-size: 32px;
+}
+
+img {
+    max-width: 5 px;
+    max-height: auto;
+}
